@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Shaoheng Yan (PhotonYan)!
+
+![](https://komarev.com/ghpvc/?username=PhotonYan&style=flat-square)
 
 <!--
 **PhotonYan/PhotonYan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
