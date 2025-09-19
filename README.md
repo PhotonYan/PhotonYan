@@ -1,4 +1,9 @@
-## Hi there 👋 I'm Shaoheng Yan (PhotonYan)!
+## Hi there 👋
+I'm Shaoheng Yan (PhotonYan).
+
+I’m now an undergraduate student of Peking University. I am currently majoring in Artificial Intelligence while pursuing a double degree in Physics, with a focus on exploring the intersection of these fields through interdisciplinary knowledge and research.
+
+Welcome to visit my github homepage! (You can find About Me on [This Page](https://www.photonyan.fun/about))
 
 ![](https://komarev.com/ghpvc/?username=PhotonYan&style=flat-square)
 
